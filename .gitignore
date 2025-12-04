@@ -1,0 +1,22 @@
+# Ignore binaries
+*.out
+*.exe
+
+# Ignore object and library files
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Ignore build directories
+/bin/
+/build/
+/dist/\
+
+# Ignore Nsight Systems profiling files
+*.nsys-rep
+*.sqlite
+*.qdrep
+*.qdstrm
+*.ncu-rep
