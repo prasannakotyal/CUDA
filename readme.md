@@ -12,3 +12,4 @@
 | Day 2   | Vector addition using separate memory and unified memory                         |
 | Day 3   | 2D matrix multiplication kernel                                                  |
 | Day 4   | 1D stencil operation using shared memory and `__syncthreads()`                   |
+| Day 5   | Color inversion of an image on the RGB channels  
